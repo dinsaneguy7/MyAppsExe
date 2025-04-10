@@ -1,7 +1,7 @@
 print("HEllo Prajwal Ftaha")
 
 
-def sum():
+def diff():
     print("Sum of two numbers is: ", 10 + 20)
     
 sum()
